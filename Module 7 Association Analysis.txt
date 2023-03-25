@@ -1,0 +1,11 @@
+This section was all reading and theory, no examples or tutorials.
+
+For chapter section see webpage 
+https://www-users.cse.umn.edu/~kumar001/dmbook/index.php#item4
+
+and textbook
+Introduction to Data Mining (Second Edition)
+Print ISBN
+9780133128901, 0133128903Print ISBN 9780133128901, 0133128903
+eText ISBN
+9780134080284, 0134080289
