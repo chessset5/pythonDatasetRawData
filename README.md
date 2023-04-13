@@ -14,3 +14,6 @@ Google Colab Link "Tutorial 5" Regression <br>
   * https://drive.google.com/file/d/1oD1f107Hxwz1iaiAZR4kze2Fdc9eWZcj/view?usp=sharing
   * https://drive.google.com/file/d/1s4HbWyhy8HB2QpBOYtAdE1SzTh_2rh6Y/view?usp=sharing
   
+
+Google Colab link "Tutorial 6" Classification <br>
+ * https://colab.research.google.com/drive/1XXJEMm52kQbuNriqQ_FnTxcWKSSvlCVh?usp=sharing
